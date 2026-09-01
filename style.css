@@ -11,10 +11,6 @@
     box-sizing: border-box;
 }
 
-html{
-    height: 500vh;
-}
-
 body{
     background-color: #000;
     height: 100vh;
